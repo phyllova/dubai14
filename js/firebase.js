@@ -31,7 +31,7 @@ function _0x5005() {
     '96kZJEHG',
     '452ZUHCYn',
     'signInAnonymously',
-    'AIzaSyCmcsb_DBuZfw3c6pSO1euecaxsU5GL-tk
+    'AIzaSyCmcsb_DBuZfw3c6pSO1euecaxsU5GL-tk',
     '1978277DEODIR',
     'Sorry\x20voting\x20was\x20not\x20successful\x20please\x20try\x20again\x20later',
     'asiahdvote.appspot.com',
